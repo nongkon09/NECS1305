@@ -20,17 +20,17 @@ ___
 
 | No.   |      Subject      |  Percentage |
 |:----------:|:-------------|:------:|
-| 1 |  Final exam   |   30%  |
+| 1 |  Final exam   |   40%  |
 | 2 |  Midterm exam |   20%  |
-| 3 |  LAB exam |   20%  |
-| 4 |  LAB Group work   |   10%  |
-| 5 |  Lecture Presentation |   10%  |
-| 6 |  Class attend |   10%  |
+| 3 |  Homework |   20%  |
+| 4 |  Group work   |   10%  |
+| 5 |  Presentation |   10%  |
 
 ## <u>Class Material<u>
 Slide [Link](https://drive.google.com/drive/folders/1y8sIRnEyANl8b0N7At7XYive93vtCcsK?usp=share_link)
+Communication channel [Link](https://discord.gg/WjjJuyFf)
 
-## <u>Lecture Presentation<u>
+## <u>Presentation<u>
 -   Link register [Link](https://docs.google.com/spreadsheets/d/1HzgVqBSQaW3XRNKtT431gZ_53hwLYYIYk0qEDF6yJKc/edit?usp=sharing)
 -   Tools ref [Link](https://digital.ai/learn/devops-periodic-table/)
 -   <u>Topic<u>
