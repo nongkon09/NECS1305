@@ -28,6 +28,7 @@ ___
 
 ## <u>Class Material<u>
 Slide [Link](https://drive.google.com/drive/folders/1y8sIRnEyANl8b0N7At7XYive93vtCcsK?usp=share_link)
+
 Communication channel [Link](https://discord.gg/WjjJuyFf)
 
 ## <u>Presentation<u>
