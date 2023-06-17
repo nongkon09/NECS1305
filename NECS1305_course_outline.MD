@@ -1,4 +1,4 @@
-# NECS1305 : แนวทางการพัฒนาระบบสารสนเทศแบบร่วมสมัยและมีความมั่นคงปลอดภัย (DevSecOps)
+# NECS1305 : การพัฒนาซอฟต์แวร์แบบบูรณาการอย่างต่อเนื่อง Software Development and IT Operations-DevOps
 
 ## <u> Instructor : Thanakorn Prajuabkamon<u>
 ___
