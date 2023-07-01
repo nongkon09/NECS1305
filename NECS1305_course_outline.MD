@@ -42,40 +42,37 @@ Communication channel [Link](https://discord.gg/WjjJuyFf)
 
 ## <u>Lecture<u> ##
 
-### Week 1-2 : Introduction to DevSecOps
--   Overview of DevOps and Security
--   Understanding the DevSecOps model
--   The benefits of DevSecOps
-
-### Week 3-4 : Security Principles and Best Practices
--   Secure coding practices
--   OWASP Top 10 vulnerabilities
--   Security testing techniques
-
-### Week 5-6 : Continuous Integration and Continuous Deployment (CI/CD)
--   CI/CD principles and practices
--   Securing the CI/CD pipeline
--   Automated testing and deployment
-
-### Week 7-8 : Infrastructure as Code (IaC) Security
--   Introduction to IaC
--   Securing the cloud environment
--   Container security
-
-### Week 9-10 : Threat Modeling and Risk Assessment
--   Threat modeling methodologies
--   Risk assessment techniques
--   Mitigating security risks
-
-### Week 11-12 : Security Operations (SecOps)
--   Security incident management
--   Security monitoring and alerting
--   Compliance and regulations
-
-### Week 13-14 : Security Automation Tools
--   Security testing tools
--   Vulnerability scanners
--   Code analysis tools
-
+### Week 1 : Introduction to DevSecOps
+### Week 2 : Security requirements
+### Week 3 : TBD
+### Week 4 : TBD
+### Week 5 : TBD
+### Week 6 : TBD
+### Week 7 : TBD
+### Week 8 : TBD
+### Week 9 : TBD
+### Week 10 : TBD
+### Week 11 : TBD
+### Week 12 : TBD
+### Week 13 : TBD
+### Week 14 : TBD
 ### Week 15 : Review and Assessment
+
+## <u>LAB<u> ##
+
+### Week 1 : Github Desktop and Github pages
+### Week 2 : Container (part 1)
+### Week 3 : Container (part 2)
+### Week 4 : TBD
+### Week 5 : TBD
+### Week 6 : TBD
+### Week 7 : TBD
+### Week 8 : TBD
+### Week 9 : TBD
+### Week 10 : TBD
+### Week 11 : TBD
+### Week 12 : TBD
+### Week 13 : TBD
+### Week 14 : TBD
+### Week 15 : LAB Exam
 
