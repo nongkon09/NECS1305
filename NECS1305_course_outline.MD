@@ -39,7 +39,7 @@ ___
 
 ### Week 1 : Introduction to DevSecOps
 ### Week 2 : Security requirements
-### Week 3 : TBD
+### Week 3 : Version control
 ### Week 4 : TBD
 ### Week 5 : TBD
 ### Week 6 : TBD
