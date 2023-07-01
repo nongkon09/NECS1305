@@ -1,4 +1,4 @@
-# NECS1305 : แนวทางการพัฒนาระบบสารสนเทศแบบร่วมสมัยและมีความมั่นคงปลอดภัย (DevSecOps)
+# NECS1305 : การพัฒนาซอฟต์แวร์แบบบูรณาการอย่างต่อเนื่อง Software Development and IT Operations-DevOps
 
 ## <u> Instructor : Thanakorn Prajuabkamon<u>
 ___
@@ -22,21 +22,16 @@ ___
 |:----------:|:-------------|:------:|
 | 1 |  Final exam   |   40%  |
 | 2 |  Midterm exam |   20%  |
-| 3 |  Homework |   20%  |
-| 4 |  Group work   |   10%  |
+| 3 |  Class attend + Assignment |   20%  |
+| 4 |  LAB Exam   |   10%  |
 | 5 |  Presentation |   10%  |
 
-## <u>Class Material<u>
-Slide [Link](https://drive.google.com/drive/folders/1y8sIRnEyANl8b0N7At7XYive93vtCcsK?usp=share_link)
-
-Communication channel [Link](https://discord.gg/WjjJuyFf)
 
 ## <u>Presentation<u>
--   Link register [Link](https://docs.google.com/spreadsheets/d/1HzgVqBSQaW3XRNKtT431gZ_53hwLYYIYk0qEDF6yJKc/edit?usp=sharing)
 -   Tools ref [Link](https://digital.ai/learn/devops-periodic-table/)
 -   <u>Topic<u>
-    -   Tool ใช้ประโยชน์อะไร
-    -   Tool ควรจะอยู่ที่ส่วนไหนของ DevOps pipeline
+    -   Tool ใช้เพื่อทำอะไร ใช้ประโยชน์อะไร
+    -   Tool ควรจะอยู่ที่ส่วนไหนของ DevSecOps pipeline
     -   License ของ tool เป็นอย่างไร (ถ้าเป็น Opensource ให้อธิบาย รูปแบบของ License)
 
 
