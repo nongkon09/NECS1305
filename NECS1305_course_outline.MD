@@ -40,8 +40,8 @@ ___
 ### Week 1 : Introduction to DevSecOps
 ### Week 2 : Security requirements
 ### Week 3 : Version control
-### Week 4 : TBD
-### Week 5 : TBD
+### Week 4 : Static Application Security Testing
+### Week 5 : Infrastructure as Code
 ### Week 6 : TBD
 ### Week 7 : TBD
 ### Week 8 : TBD
@@ -58,8 +58,8 @@ ___
 ### Week 1 : Github Desktop and Github pages
 ### Week 2 : Container (part 1)
 ### Week 3 : Container (part 2)
-### Week 4 : TBD
-### Week 5 : TBD
+### Week 4 : Container (part 3)
+### Week 5 : Docker Compose
 ### Week 6 : TBD
 ### Week 7 : TBD
 ### Week 8 : TBD
