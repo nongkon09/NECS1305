@@ -42,7 +42,7 @@ ___
 ### Week 3 : Version control
 ### Week 4 : Static Application Security Testing
 ### Week 5 : Infrastructure as Code
-### Week 6 : TBD
+### Week 6 : Software Composition Analysis
 ### Week 7 : TBD
 ### Week 8 : TBD
 ### Week 9 : TBD
@@ -60,7 +60,7 @@ ___
 ### Week 3 : Container (part 2)
 ### Week 4 : Container (part 3)
 ### Week 5 : Docker Compose
-### Week 6 : TBD
+### Week 6 : SAST
 ### Week 7 : TBD
 ### Week 8 : TBD
 ### Week 9 : TBD
