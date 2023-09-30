@@ -44,14 +44,11 @@ ___
 ### Week 5 : Infrastructure as Code
 ### Week 6 : Software Composition Analysis
 ### Week 7 : CI/CD Pipeline
-### Week 8 : TBD
-### Week 9 : TBD
-### Week 10 : TBD
-### Week 11 : TBD
-### Week 12 : TBD
-### Week 13 : TBD
-### Week 14 : TBD
-### Week 15 : Review and Assessment
+### Week 8 : AutomatedTesting
+### Week 9 : Container
+### Week 10 : Monitoring
+### Week 11 : Kubernetes
+### Week 12 : Microservice
 
 ## <u>LAB<u> ##
 
@@ -62,12 +59,12 @@ ___
 ### Week 5 : Docker Compose
 ### Week 6 : SAST
 ### Week 7 : Infrastructure as Code
-### Week 8 : TBD
-### Week 9 : TBD
-### Week 10 : TBD
-### Week 11 : TBD
-### Week 12 : TBD
-### Week 13 : TBD
-### Week 14 : TBD
+### Week 8 : Jenkins
+### Week 9 : Jenkins(Cont)
+### Week 10 : SecretManagement
+### Week 11 : Monitoring
+### Week 12 : Kubernetes
+### Week 13 : NginX
+### Week 14 : NginX(Cont)
 ### Week 15 : LAB Exam
 
